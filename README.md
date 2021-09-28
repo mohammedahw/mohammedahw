@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Ali
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and Mobile Applications Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fun Projects
 
