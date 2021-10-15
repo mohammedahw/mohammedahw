@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at UOITC.
 - 🌱 &nbsp; Learning more about Web Applications Development, Mobile Applications Development and Artificial Intelligence.
 
