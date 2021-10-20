@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Information Technology at UOITC.
-- 🌱 &nbsp; Learning more about Web Applications Development, Mobile Applications Development and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Web/Mobile Applications Development and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
