@@ -15,6 +15,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Flask](https://img.shields.io/badge/-flask-333333?style=flat&logo=flask)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
 - 🛢 &nbsp;
