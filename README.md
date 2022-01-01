@@ -1,4 +1,3 @@
-<h2> Hey there! I'm Mohammed.</h2>
 
 
 - 🎓 &nbsp; Studying Information Technology at UOITC.
