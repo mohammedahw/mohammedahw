@@ -1,9 +1,7 @@
 <h2> Hey there! I'm Mohammed.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Information Technology at UOITC.
-- 🌱 &nbsp; Learning more about Web/Mobile Applications Development and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
