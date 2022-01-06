@@ -1,5 +1,4 @@
 
-
 - 🎓 &nbsp; Studying Information Technology at UOITC.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
