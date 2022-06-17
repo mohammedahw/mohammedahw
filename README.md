@@ -14,7 +14,6 @@
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
 
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
