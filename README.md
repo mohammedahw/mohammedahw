@@ -20,6 +20,6 @@
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammedahw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Ali%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mohamed.ahw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohamed.ahw-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/mohammedahw/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Ali%20-blue?style=flat-square&logo=linkedin" target="_blank"></a>
+<a href="https://www.instagram.com/mohamed.ahw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mohamed.ahw-blue?style=flat-square&logo=instagram" target="_blank"></a>
 </p>
