@@ -13,6 +13,8 @@
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=nestjs)
+  ![django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
+
 
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
